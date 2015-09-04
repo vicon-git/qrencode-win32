@@ -53,6 +53,9 @@ int APIENTRY _tWinMain(HINSTANCE hInstance,
 	return 0;
 }
 
+
+// add comments for git test
+
 INT_PTR CALLBACK MainWnd(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 {
 	UNREFERENCED_PARAMETER(lParam);
