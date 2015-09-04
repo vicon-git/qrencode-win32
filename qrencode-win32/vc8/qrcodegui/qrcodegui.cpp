@@ -55,6 +55,7 @@ int APIENTRY _tWinMain(HINSTANCE hInstance,
 
 
 // add comments for git test
+// change it again
 
 INT_PTR CALLBACK MainWnd(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 {
